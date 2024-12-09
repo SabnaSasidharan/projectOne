@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+h1, h2, h3, h4 {
+  color: #333;
+}
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f8f9fa;
+}
+
+footer {
+  background-color: #343a40;
+}
+
+footer p {
+  color: white;
+}
